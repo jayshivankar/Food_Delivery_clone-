@@ -11,3 +11,9 @@ j
 :app/src/main/java/com/example/wavesoffood/LoginActivity.kt,3/7/374ddef928ef69ee1e3990a144ff8cbbad7954f8
 k
 ;app/src/main/java/com/example/wavesoffood/SIgninActivity.kt,f/9/f96c2454b679608c96ba3b3e4d5ab6ab02778b8f
+k
+;app/src/main/java/com/example/wavesoffood/chooseLocation.kt,0/d/0d88f4200de0a2b5fb288a70a757415f0b2f6157
+@
+build.gradle.kts,d/b/dbcff70658daf80b53ce624f6adcaa529df5ed8d
+D
+app/build.gradle.kts,d/2/d2a4383452aad84a18429a5844d31330a012a9e6
