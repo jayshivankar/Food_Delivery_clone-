@@ -17,7 +17,7 @@ class LoginActivity : AppCompatActivity() {
         enableEdgeToEdge()
         setContentView(binding.root)
         binding.button4login.setOnClickListener {
-            val intent = Intent(this,SIgninActivity::class.java)
+            val intent = Intent(this,chooseLocation::class.java)
             startActivity(intent)
         }
         binding.textView5login.setOnClickListener {
