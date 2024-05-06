@@ -17,3 +17,13 @@ k
 build.gradle.kts,d/b/dbcff70658daf80b53ce624f6adcaa529df5ed8d
 D
 app/build.gradle.kts,d/2/d2a4383452aad84a18429a5844d31330a012a9e6
+r
+Bapp/src/main/java/com/example/wavesoffood/Fragment/HomeFragment.kt,f/3/f3b93c44f6558d37a75a9b485fa87218b6d35f1e
+r
+Bapp/src/main/java/com/example/wavesoffood/Fragment/CartFragment.kt,d/d/ddf18d7e48e0bc0eb6fb50e7a9bcd062f2aef6b2
+u
+Eapp/src/main/java/com/example/wavesoffood/Fragment/HistoryFragment.kt,a/8/a83508801e53b2f9c0ae4c06546154e092c49009
+u
+Eapp/src/main/java/com/example/wavesoffood/Fragment/ProfileFragment.kt,3/c/3ccab59de516ab263bd458df948040a169347c96
+t
+Dapp/src/main/java/com/example/wavesoffood/Fragment/SearchFragment.kt,5/c/5ccf4176ef79585d3cd2f485ead58829faa09377
